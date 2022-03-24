@@ -1,6 +1,6 @@
-# Using Processing 3 in IntelliJ IDEA
+# Using Processing 4 in IntelliJ IDEA
 
-This repository contains an example [Processing 3](https://processing.org) project in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+This repository contains an example [Processing 4](https://processing.org) project in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 The project can be used in two steps:
 
