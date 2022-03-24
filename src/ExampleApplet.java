@@ -2,7 +2,7 @@ import processing.core.PApplet;
 
 public class ExampleApplet extends PApplet {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         PApplet.main("ExampleApplet");
     }
 
